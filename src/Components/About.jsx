@@ -12,9 +12,12 @@ const About = () => {
             Get to <b>know</b> me!
           </h1>
           <p>
-            Hi, my name is <b>Prince Nagarkoti</b> and I am from Dehradun,
-            Uttrakhand India. I'm a <b>Frontend web developer</b> and a last year
-            university student pursuing <b>Masters in Computer Application</b>. <br />
+          Hi, my name is <b>Prince Nagarkoti</b> and I am from Dehradun, Uttarakhand, India. 
+          I'm a last year university student pursuing a <b>Masters in Computer Application</b> with a specialization in <b>Cyber Security</b>. <br />
+          I am not a professional developer yet, but I have a keen interest in full stack web development. 
+          I am continuously learning new things to add to my skills 
+          and am actively applying my knowledge in different projects.
+
             <br />
             I love to create projects with beautiful designs and put my own
             twists on it, you can check out some of my work in the projects
@@ -24,12 +27,11 @@ const About = () => {
             contribute and grow. Feel free to connect with me, links are in the
             footer.
             <br />
-            Apart from coding I love to make discord servers, designs, and do
-            photography in my spare time.
+            Apart from coding I love traveling and spending time at beautiful locations.
           </p>
           <a href={myResume} download className="resume-btn">
             <button>
-              Download Resume <FaFileDownload />
+            Download Resume <FaFileDownload />
             </button>
           </a>
         </div>

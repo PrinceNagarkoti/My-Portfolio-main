@@ -12,7 +12,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     SnakeGameDesc:
       "This project is a fun and interactive rendition of the classic Snake game. It features smooth controls, responsive design, showcasing my web development skills and understanding of front-end technologies.",
     SnakeGameGithub: "https://github.com/PrinceNagarkoti/SnakeGame.git",
-    SnakeGameWebsite: "https://film-mania.vercel.app/",
+    SnakeGameWebsite: "https://classicxsnakegame.netlify.app/",
 
     ColourPaletteDesc:
       "This website helps you generate random colours that you can use as a palette.The project helped me understand Javascript more deeply using advance techniques",
