@@ -14,14 +14,14 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     SnakeGameGithub: "https://github.com/PrinceNagarkoti/SnakeGame.git",
     SnakeGameWebsite: "https://classicxsnakegame.netlify.app/",
 
-    ColourPaletteDesc:
-      "This website helps you generate random colours that you can use as a palette.The project helped me understand Javascript more deeply using advance techniques",
-    ColourPaletteGithub: "https://github.com/EshaalB/Colour-palette-Generator",
-    ColourPaletteWebsite: "https://colourpalettegen.netlify.app",
+    ExpenseTrackerDesc:
+      "This Expense Tracker web application helps you manage your personal finances efficiently. The project allowed me to deepen my understanding of React Js by implementing advanced techniques",
+      ExpenseTrackerGithub: "https://github.com/PrinceNagarkoti/Expense-Tracker.git",
+      ExpenseTrackerWebsite: "https://github.com/PrinceNagarkoti/Expense-Tracker.git",
 
     BackpackDesc:
-      "This webpageis was made for an ecommerce brand showcasing their backpacks.The project taught me how to use custom cursors and arrange text in a much better way",
-    BackpackGithub: "https://github.com/EshaalB/Landing-Page--React-",
+      "This webpage was made for an ecommerce brand showcasing their backpacks.The project taught me how to use custom cursors and arrange text in a much better way",
+    BackpackGithub: "https://github.com/PrinceNagarkoti/Landing-Page.git",
     BackpackWebsite: "https://landing-page-react-sage.vercel.app/",
   };
 

@@ -14,8 +14,8 @@ const Projects = () => {
       <div className="project">
         <ProjectBox projectPhoto={Global} projectName="GlobalInsight" />
         <ProjectBox projectPhoto={snake} projectName="SnakeGame" />
-        {/* <ProjectBox projectPhoto={ColourImage} projectName="ColourPalette" /> */}
-        {/* <ProjectBox projectPhoto={BackpackImage} projectName="Backpack" /> */}
+        <ProjectBox projectPhoto={ColourImage} projectName="ExpenseTracker" />
+        <ProjectBox projectPhoto={BackpackImage} projectName="Backpack" />
       </div>
     </div>
   );
