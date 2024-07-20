@@ -12,7 +12,7 @@ const Footer = () => {
         <a href="https://github.com/PrinceNagarkoti" target="_blank">
           <FaGithub />
         </a>
-        <a href="https://instagram.com/princenagrkoti" target="_blank">
+        <a href="https://www.instagram.com/prince_nagrkoti?igsh=MWZpY2tmMDN5OTFxcQ==" target="_blank">
           <FaInstagram />
         </a>
 
